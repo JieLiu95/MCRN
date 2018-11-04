@@ -21,3 +21,13 @@ Please run:
 python test/test.py
 ```
 If you want to test your own dataset, you can replace **dped** file.
+
+## Citation
+```
+@InProceedings{geometry2018pirm,
+author = {Liu, Jie and Jung, Cheolkon},
+title = {Multiple Connected Residual Network for Image Enhancement on Smartphones},
+booktitle = {European Conference on Computer Vision Workshops},
+year = {2018},
+}
+```
