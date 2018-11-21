@@ -10,7 +10,7 @@ The training code will be available after a few weeks.
 In this figure, (a) is input image obtain by iPhone 3GS, and (b) is enhanced image by MCRN.
 
 ## Installation
-We train and test the program with one GPU which is GTX 1080Ti.
+We train and test the program with GTX 1080Ti.
 
 ### Dependencies
 TensorFlow 1.8.0
